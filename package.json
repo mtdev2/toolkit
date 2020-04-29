@@ -29,10 +29,14 @@ depfu/update/npm/@types/jest-24.9.1
 depfu/update/npm/@types/node-11.15.12
     "@typescript-eslint/parser": "^2.2.7",
 
+    "concurrently": "^4.1.2",
+
+
     "@types/signale": "^1.2.1",
     "@typescript-eslint/parser": "^2.30.0",
 depfu/update/npm/@types/signale-1.4.1
     "concurrently": "^4.1.0",
+depfu/update/npm/concurrently-4.1.2
     "eslint": "^5.16.0",
     "eslint-plugin-github": "^2.0.0",
     "eslint-plugin-jest": "^22.21.0",
