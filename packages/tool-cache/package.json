@@ -36,8 +36,13 @@
     "url": "https://github.com/actions/toolkit/issues"
   },
   "dependencies": {
-    "@actions/core": "^1.2.0",
+
+    "@actions/core": "^1.2.4",
     "@actions/exec": "^1.0.0",
+
+    "@actions/core": "^1.2.0",
+    "@actions/exec": "^1.0.4",
+depfu/update/packagestool-cache/npm/@actions/core-1.2.4
     "@actions/http-client": "^1.0.8",
     "@actions/io": "^1.0.1",
     "semver": "^6.1.0",
@@ -46,7 +51,7 @@
   "devDependencies": {
     "@types/nock": "^10.0.3",
     "@types/semver": "^6.0.0",
-    "@types/uuid": "^3.4.4",
+    "@types/uuid": "^3.4.9",
     "nock": "^10.0.6"
   }
 }
