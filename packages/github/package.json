@@ -38,6 +38,9 @@
   },
   "dependencies": {
 
+
+
+snyk-upgrade-202120c86f5f4cb439ca4be104839be9
     "@actions/http-client": "^1.0.8",
     "@octokit/graphql": "^4.3.1",
 
